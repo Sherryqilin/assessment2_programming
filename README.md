@@ -3,8 +3,14 @@
 ## Project purpose
 This project aims to create a salary data table for data science majors. By analyzing the impact of different factors on salary, the project provides detailed data visualization to help users understand and evaluate the salary situation in the field of data science.
 
+## Operating environment
+This project is developed and run in the Visual Studio Code (VS Code) environment.
+
 ## Data Sources
 The data for this project comes from [Baidu AI Studio](https://aistudio.baidu.com/datasetdetail/214898).
+
+## GitHub repository
+The code for this project is hosted on GitHub, which you can access via the following link：[assessment2_programming](https://github.com/Sherryqilin/assessment2_programming.git)
 
 ## Technology Stack
 - **Python**：Primary programming language for the project.
