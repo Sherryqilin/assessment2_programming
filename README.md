@@ -29,7 +29,4 @@ The code for this project is hosted on GitHub, which you can access via the foll
 ## Highlights
 - **World map salary display**：Using the folium package, I plotted country average salaries on a world map. Users can hover over different countries on the map to intuitively see the country name and average salary data.
 
-## Image display
-![picture]([https://github.com/Sherryqilin/assessment2_programming/blob/main/images/picture1.png](https://github.com/Sherryqilin/assessment2_programming/blob/main/picture1.png))
-[map]([https://github.com/Sherryqilin/assessment2_programming/blob/main/salarymap.html](https://github.com/Sherryqilin/assessment2_programming/blob/main/salarymap.html)https://github.com/Sherryqilin/assessment2_programming/blob/main/salarymap.html)
 
